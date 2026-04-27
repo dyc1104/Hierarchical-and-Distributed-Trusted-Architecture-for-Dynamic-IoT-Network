@@ -1,0 +1,17 @@
+中心化的：
+INFO (device)centralized.dev[499]: ===============================
+INFO (device)centralized.dev[499]: Total devices: 500
+INFO (device)centralized.dev[499]: Average Join Time: 0.323497800554
+INFO (device)centralized.dev[499]: ===============================
+
+INFO: ======================
+INFO: Total quit devices: 500
+INFO: Average Quit Time: 0.024
+INFO: ======================
+
+
+
+分布式的：
+DEV_JOIN count=500 avg=0.096238173149
+DEV_REJOIN count=50 avg=0.099283045698
+DEV_LEAVE count=500 avg=0.075191200866

@@ -1,0 +1,12 @@
+单位：s
+
+Peer：
+加入：JOIN count=1 avg=0.128115274747
+退出：LEAVE count=1 avg=0.075656094857
+
+Device：
+加入：DEV_JOIN count=500 avg=0.096173283073
+退出：DEV_LEAVE count=500 avg=0.075191200866
+Peer退出后重组：DEV_REJOIN count=50 avg=0.099311633278
+
+Peer提交退出请求->重组：0.174967728135
